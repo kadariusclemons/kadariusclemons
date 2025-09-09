@@ -49,18 +49,18 @@ I’m passionate about building responsive, user-friendly applications. I enjoy 
 ### [Portfolio Website](https://kadarius-portfolio.netlify.app/)  
 Responsive site showcasing my work and resume.  
 
-### [Weather App](https://kadarius-weather.netlify.app/)  
+### [Weather App](https://kadarius-weather.netlify.app/)
 Fetches real-time weather data with OpenWeatherMap API.  
 
-### [Task Management App](https://kadarius-todo.netlify.app/)  
-Full-stack CRUD app with authentication (Node.js, MongoDB).  
+### [Task Management App](https://kadarius-todo.netlify.app/)
+Full-stack CRUD app with authentication (Node.js).
 
 ---
 
 ## Let’s Connect  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:clemonskadarius@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/YOUR_GITHUB)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:clemonskadarius@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/kadariusclemons)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/kadariusclemons)
 
 ---
 
