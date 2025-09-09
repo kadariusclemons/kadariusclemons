@@ -1,17 +1,17 @@
-# 👋 Hi, I’m Kadarius Clemons  
+# Hi, I’m Kadarius Clemons  
 
-🌟 **Software Engineer | Full-Stack Developer | Problem Solver**  
+**Software Engineer | Full-Stack Developer | Problem Solver**  
 
 I’m passionate about building responsive, user-friendly applications. I enjoy solving problems, learning new technologies, and contributing to projects that make a real-world impact.
 
 ---
 
 ## About Me
-- 💻 Skilled in **JavaScript (React, Node.js), Python, HTML, CSS, SQL**  
-- 🗄️ Experience with **MongoDB, MySQL, PostgreSQL**  
-- ⚡ Knowledge of **Express, Flask, REST APIs, Agile Development**  
-- 🌍 Based in Memphis, TN  
-- 🎯 Career Goal: Apply my skills to build innovative products while continuing to grow as a developer  
+- Skilled in **JavaScript (React, Node.js), Python, HTML, CSS, SQL**  
+- Experience with **MongoDB, MySQL, PostgreSQL**  
+- Knowledge of **Express, Flask, REST APIs, Agile Development**  
+- Based in Memphis, TN  
+- Career Goal: Apply my skills to build innovative products while continuing to grow as a developer  
 
 ---
 
